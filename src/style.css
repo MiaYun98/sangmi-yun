@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+
+* {
+    font-family: 'Kaushan Script', cursive;
+}
+
+body {
+    background-color: #231f20;
+}
+
+p {
+    font-family: 'Klee One', cursive;
+    font-size: large;
+    margin: 2%;
+}
+
+.header {
+    color: #231f20;
+    background-color: #EAEAEA;
+}
+
+.nav-link {
+    font-size: large;
+    color: #231f20;
+}
+
+.head {
+    padding: 1%;
+}
+
+.main {
+    padding-bottom: 3%;
+}
+
+.social {
+    border-top: gray solid 1px;
+    list-style: none;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.social a img {
+    width: 5%;
+}
+
+.earth {
+    display: block;
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.left {
+    color: #EAEAEA;
+    position: absolute;
+    left: 16px;
+    opacity: 0;
+    font-size: 100%;
+    list-style: none;
+    background-color: transparent;
+}
+
+.left li {
+    background-color: transparent;
+    padding: 3%;
+}
+
+.left:hover {
+    animation: fadeIn 5s;
+    -webkit-animation: fadeIn 5s;
+    -moz-animation: fadeIn 5s;
+    -o-animation: fadeIn 5s;
+    -ms-animation: fadeIn 5s;
+}
+
+.right {
+    color: #EAEAEA;
+    position: absolute;
+    right: 16px;
+    opacity: 0;
+    font-size: 100%;
+    list-style: none;
+    background-color: transparent;
+}
+
+.right li {
+    background-color: transparent;
+    padding: 3%;
+}
+
+.right:hover {
+    animation: fadeIn 5s;
+    -webkit-animation: fadeIn 5s;
+    -moz-animation: fadeIn 5s;
+    -o-animation: fadeIn 5s;
+    -ms-animation: fadeIn 5s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.about {
+    color: #EAEAEA;
+}
+
+.aboutname {
+    position: absolute;
+    top: 30%;
+    right: 40%;
+    font-size: 400%;
+}
+
+.profile {
+    width: 30%;
+    border-radius: 100%;
+    padding: 2%;
+}
+
+.contact {
+    margin-top: 2%;
+    color: #EAEAEA;
+}
+
+.contactform {
+    width: fit-content;
+    padding: 5%;
+    border: solid gray 2px;
+    margin: auto;
+    margin-top: 3%;
+    font-size: 200%;
+    text-align: left;
+}
+
+input {
+    background-color: #231f20; 
+    margin-left: 10px;
+    border: none;
+}
+
+textarea {
+    background-color: #3a3436; 
+    margin-left: 10px;
+    border: none;
+    margin-top: 5%;
+}

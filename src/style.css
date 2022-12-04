@@ -185,6 +185,7 @@ p {
     text-align: left;
 }
 
+/* contact page css */
 input {
     background-color: #231f20; 
     margin-left: 10px;
@@ -197,3 +198,5 @@ textarea {
     border: none;
     margin-top: 5%;
 }
+
+/*  */

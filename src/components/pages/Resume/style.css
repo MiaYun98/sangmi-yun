@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+
+.resume {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: #eaeaea;
+}
+
+.skillpart {
+    margin: 2%;
+}
+
+.skills li {
+    font-family: 'Klee One', cursive;
+    list-style: none;
+    margin: 2%;
+}
+
+.download img {
+    width: 8%;
+}
+
+.resume {
+    width: 50%;
+}

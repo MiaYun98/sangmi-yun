@@ -6,6 +6,7 @@ import MusicG from '../../../assets/screenshot.png';
 import Proti from '../../../assets/portfo.png';
 import ngram from '../../../assets/n-gram.png';
 import Sla from '../../../assets/sla.png';
+import Shrub from '../../../assets/Untitled.png';
 
 export default function Portfolio() {
   return (
@@ -15,8 +16,8 @@ export default function Portfolio() {
         <div className='card'>
           <h2 className='title'>Shrub club</h2>
           <p>Full functional Website using React</p>
-          <a href='https://miayun98.github.io/Calcu-date/' target='_blank'>
-            <img className='calcuImg' src={Calcu} alt='Image of placeholer website'></img>
+          <a href='https://shrubclub.netlify.app/' target='_blank'>
+            <img className='ShrubClubImg' src={Shrub} alt='Shrub'></img>
           </a>
           <a className='calcudateGit' href='https://github.com/jordan-koichiro-johnson/shrub-club' target='_blank'><p>Github Repo</p></a>
         </div>

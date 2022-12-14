@@ -8,7 +8,7 @@ export default function Resume() {
     <div className='resume container p-4'>
       <div>
         <h1>Resume</h1>
-        <a className='download' href='https://cdn.discordapp.com/attachments/796122268337963041/1048788963286073465/SangmiYun_Resume_2022.docx.jpg' target='_blank' download='SangmiYun'><img src={DownImg} alt="Download"></img></a>
+        <a className='download' href='https://cdn.discordapp.com/attachments/796122268337963041/1052673808831619122/TechSangmiYun_Resume_2022.docx.pdf' target='_blank' download='SangmiYun'><img src={DownImg} alt="Download"></img></a>
       </div>
       <div className='row justify-content-center skillpart'>
         <div className='col-6'>

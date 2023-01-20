@@ -66,8 +66,11 @@ npm i => npm run start
 
 ## Live Website
 
-![Alt text](./src/assets/portfo.png)
 https://sangmi.netlify.app/
+
+## App ScreenShot
+
+![Alt text](./src/assets/portfo.png)
 
 ## Contact 
 

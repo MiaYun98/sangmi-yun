@@ -1,4 +1,4 @@
-# note-taker-project
+# Personal Portfolio / Sangmi Yun
 
 ## Description 
 

@@ -60,6 +60,10 @@ HTML, CSS, JavaScript, Node.js
 
 It is a porfolio website created with react.
 
+To start the APP 
+
+npm i => npm run start
+
 ## Live Website
 
 ![Alt text](./src/assets/portfo.png)

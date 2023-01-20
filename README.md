@@ -74,4 +74,4 @@ https://sangmi.netlify.app/
 
 ## Contact 
 
-Sangmi Yun: https://github.com/MiaYun98
+Sangmi Yun: sangmiyun0529@gmail.com

@@ -20,6 +20,7 @@ export default function Portfolio() {
             <img className='ShrubClubImg' src={Shrub} alt='Shrub'></img>
           </a>
           <a className='calcudateGit' href='https://github.com/jordan-koichiro-johnson/shrub-club' target='_blank'><p>Github Repo</p></a>
+          <a className='calcudateGit' href='https://www.youtube.com/watch?v=G01w_TE8Xtk' target='_blank'><p>Video Demo</p></a>
         </div>
         <div className='card'>
           <h2 className='title'>Stutter n-gram Project</h2>
@@ -28,6 +29,7 @@ export default function Portfolio() {
             <img className='calcuImg' src={ngram} alt='Image of n-gram project Research'></img>
           </a>
           <a className='calcudateGit' href='https://github.com/jordan-koichiro-johnson/shrub-club' target='_blank'><p>Github Repo</p></a>
+          
         </div>
         <div className='card'>
           <h2 className='title'>Music Quiz Game</h2>
@@ -36,6 +38,7 @@ export default function Portfolio() {
             <img className='musicImg' src={MusicG} alt='Image of Music Quiz Game website'></img>
           </a>
           <a className='calcudateGit' href='https://github.com/itsDavidK/music-quiz-game' target='_blank'><p>Github Repo</p></a>
+          <a className='calcudateGit' href='https://www.youtube.com/watch?v=7ZjcCxjCXpk' target='_blank'><p>Video Demo</p></a>
         </div>
         <div className='card'>
           <h2 className='title'>Caludate</h2>
@@ -44,6 +47,7 @@ export default function Portfolio() {
             <img className='calcuImg' src={Calcu} alt='Image of Calcudate website'></img>
           </a>
           <a className='calcudateGit' href='https://miayun98.github.io/Calcu-date/' target='_blank'><p>Github Repo</p></a>
+          <a className='calcudateGit' href='https://www.youtube.com/watch?v=dGrSkSmvbAE' target='_blank'><p>Video Demo</p></a>
         </div>
         <div className='card'>
           <h2 className='title'>Portfolio</h2>

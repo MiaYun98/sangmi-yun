@@ -1,4 +1,4 @@
-# note-taker-project
+# Personal Portfolio / Sangmi Yun
 
 ## Description 
 
@@ -60,11 +60,18 @@ HTML, CSS, JavaScript, Node.js
 
 It is a porfolio website created with react.
 
+To start the APP 
+
+npm i => npm run start
+
 ## Live Website
 
-![Alt text](./src/assets/portfo.png)
 https://sangmi.netlify.app/
+
+## App ScreenShot
+
+![Alt text](./src/assets/portfo.png)
 
 ## Contact 
 
-Sangmi Yun: https://github.com/MiaYun98
+Sangmi Yun: sangmiyun0529@gmail.com

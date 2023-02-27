@@ -46,6 +46,7 @@ p {
 }
 
 .earth {
+    filter: brightness(100);
     display: block;
     width: 60%;
     margin: auto;

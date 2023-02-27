@@ -1,5 +1,6 @@
 import React from 'react';
 import Right from '../../../assets/file.gif';
+import './style.css';
 
 export default function Home() {
   const handleLanguages = () => {
@@ -8,7 +9,7 @@ export default function Home() {
 
   return (
     <div className='container main'>
-      <main className='list'>
+      {/* <main className='list'>
         <ul className='left col'>
           <h1>Linguistics</h1>
           <li>Phonetics</li>
@@ -37,7 +38,7 @@ export default function Home() {
           <li>Java</li>
           <li>Intro of Computational Linguistics</li>
         </ul>
-      </main>
+      </main> */}
       <img className="earth" src={Right} alt="right Earth" onClick={() => handleLanguages()} />
     </div>
   );

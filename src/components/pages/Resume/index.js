@@ -18,6 +18,7 @@ export default function Resume() {
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
+            <li>Python</li>
             <li>jQuery</li>
             <li>Responsive Design</li>
             <li>Bootstrap</li>

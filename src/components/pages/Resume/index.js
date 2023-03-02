@@ -12,7 +12,7 @@ export default function Resume() {
       </div>
       <img className='resume' src={ImgResume} alt="Download"></img>
       <div className='row justify-content-center skillpart'>
-        <div className='col-6'>
+        <div className='col-4'>
           <h3>Front-end Proficiencies</h3>
           <ul className="skills">
             <li>HTML</li>
@@ -28,8 +28,19 @@ export default function Resume() {
             <li>React.js</li>
           </ul>
         </div>
-        <div className='col-6'>
+        <div className='col-4'>
           <h3>Back-end Proficiencies</h3>
+          <ul className="skills">
+            <li>API Design</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+            <li>Server Side Development</li>
+          </ul>
+        </div>
+        <div className='col-4'>
+          <h3>Foreign Langauges</h3>
           <ul className="skills">
             <li>API Design</li>
             <li>Node.js</li>

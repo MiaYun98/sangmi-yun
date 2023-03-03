@@ -42,7 +42,7 @@ export default function Resume() {
         <div className='col-4'>
           <h3>Foreign Langauges</h3>
           <ul className="skills">
-            <li>API Design</li>
+            <li>Korean - Native</li>
             <li>Node.js</li>
             <li>Express.js</li>
             <li>MySQL</li>

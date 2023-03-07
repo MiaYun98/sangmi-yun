@@ -44,7 +44,7 @@ export default function Resume() {
           <ul className="skills">
             <li>Korean - Native</li>
             <li>American Sign Langauge - Fluent</li>
-            <li>American Sign Langauge - Fluent</li>
+            <li>English - Fluent</li>
             <li>Express.js</li>
             <li>MySQL</li>
             <li>MongoDB</li>

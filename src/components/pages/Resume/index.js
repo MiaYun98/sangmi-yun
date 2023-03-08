@@ -45,7 +45,7 @@ export default function Resume() {
             <li>Korean - Native</li>
             <li>American Sign Langauge - Fluent</li>
             <li>English - Fluent</li>
-            <li>Express.js</li>
+            <li>Chinese - Intermediate</li>
             <li>MySQL</li>
             <li>MongoDB</li>
             <li>Server Side Development</li>

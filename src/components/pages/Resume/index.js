@@ -46,7 +46,7 @@ export default function Resume() {
             <li>American Sign Langauge - Fluent</li>
             <li>English - Fluent</li>
             <li>Chinese - Intermediate</li>
-            <li>MySQL</li>
+            <li>Japanese - Novice</li>
             <li>MongoDB</li>
             <li>Server Side Development</li>
           </ul>

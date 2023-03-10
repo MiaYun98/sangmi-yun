@@ -47,8 +47,6 @@ export default function Resume() {
             <li>English - Fluent</li>
             <li>Chinese - Intermediate</li>
             <li>Japanese - Novice</li>
-            <li>MongoDB</li>
-            <li>Server Side Development</li>
           </ul>
         </div>
       </div>
